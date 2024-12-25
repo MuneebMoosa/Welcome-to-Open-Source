@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/MuneebMoosa">
-                    <img src="https://avatars.githubusercontent.com/u/187942068?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://avatars.githubusercontent.com/u/187942068?v=4" width="100px;" alt="Muneeb Moosa"/>
                     <br />
                     <sub><b>Muneeb Moosa</b></sub>
                 </a> 
